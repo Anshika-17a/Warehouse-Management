@@ -1,0 +1,13 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pymongo>=4.6.2
+motor>=3.3.2
+pydantic>=2.6.4
+pydantic-settings>=2.2.1
+python-multipart>=0.0.9
+pandas>=2.2.1
+numpy>=1.26.4
+pyarrow>=15.0.0
+python-dotenv>=1.0.1
+orjson>=3.9.15
+requests>=2.31.0
